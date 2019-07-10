@@ -1,0 +1,2 @@
+﻿  main.cpp
+d:\kampus\semester 6\pemrograman grafis\14\openglcourseapp\openglcourseapp\main.cpp(5): fatal error C1083: Cannot open include file: 'GL\glew.h': No such file or directory
